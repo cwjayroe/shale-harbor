@@ -37,12 +37,14 @@ const IndexPage = () => {
           <div style={titleBanner}>
             <div style={{marginTop: 'auto'}}>
               <div style={title}>
-                Shale Harbour
+                Shell Harbour
               </div>
               <div>
                 Coming Soon!
               </div>
-
+              <div>
+                Have questions? Contact us at <a href="mailto:admin@shellharbourrv.com">here</a>
+              </div>
             </div>
           </div>
           <div>
