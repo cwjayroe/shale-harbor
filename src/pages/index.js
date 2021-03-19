@@ -37,7 +37,7 @@ const IndexPage = () => {
           <div style={titleBanner}>
             <div style={{marginTop: 'auto'}}>
               <div style={title}>
-                Shell Harbour
+                Shell Harbor
               </div>
               <div>
                 Coming Soon!
