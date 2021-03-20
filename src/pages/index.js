@@ -1,9 +1,9 @@
 import { Grid } from "@material-ui/core"
 import * as React from "react"
-import img1 from '../images/img1.jpg'
-import img2 from '../images/img2.jpg'
-import img3 from '../images/img3.jpg'
-import img4 from '../images/img4.jpg'
+import img1 from '../images/img1-scaled.jpg'
+import img2 from '../images/img2-scaled.jpg'
+import img3 from '../images/img3-scaled.jpg'
+import img4 from '../images/img4-scaled.jpg'
 
 // styles
 const title = {
@@ -37,7 +37,7 @@ const IndexPage = () => {
           <div style={titleBanner}>
             <div style={{marginTop: 'auto'}}>
               <div style={title}>
-                Shell Harbor
+                Shell Harbour
               </div>
               <div>
                 Coming Soon!
