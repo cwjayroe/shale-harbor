@@ -1,4 +1,42 @@
-html,
+html {
+    height: 100%;
+    font-family: '-apple-system, Roboto, sans-serif, serif';
+}
+
 body {
-height: 100%
+    height: 100%;
+    margin: 0;
+}
+
+#___gatsby {
+    height: 100%;
+}
+
+#gatsby-focus-wrapper {
+    height: 100%;
+}
+
+.background {
+    background: center no-repeat url("../images/background.jpg");
+    height: 100%;
+}
+
+.center-grid {
+    text-align: center;
+    height: 100%;
+}
+
+.logo {
+    max-height: 250px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.contact {
+    font-size: 20px;
+    margin-top: 1rem;
 }
